@@ -1,7 +1,7 @@
 # Project X Tasks
 
-- [Problem 1: Airfoil Selection](Problem_1___Airfoil_Selection_and_Aerodynamic_Analysis.pdf)
-- [Problem 3: Simulation vs. Practical Development](Problem_3___Simulation_vs_Practical_Development.pdf)
+- [Problem 1: Airfoil Selection]
+- [Problem 3: Simulation vs. Practical Development]
 
 ## Results
 
